@@ -11,7 +11,7 @@ The notebook requires paired mass spectra input:
    - The spectrum should be acquired with sufficient resolution such that peak widths correspond to the width of the isotopic envelope.
    - We accomplish this by turning off eFT (i.e., use magnitude-mode FT) and acquire with long transients so individual isotopologues can be at least partially resolved.
 
-2. **MS2 spectra** acquired by isolating and activating the entire ensemble of ligand-bound species.
+2. **MS2 spectrum** acquired by isolating and activating the entire ensemble of ligand-bound species.
 
 A file used to generate lipid masses (provided) is also required.
 
